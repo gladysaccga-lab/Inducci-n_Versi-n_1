@@ -1,0 +1,323 @@
+{
+  "documento": {
+    "numero": "Acuerdo 009 de 2024",
+    "fecha": "5 de noviembre de 2024",
+    "publicacion": "Diario Oficial No. 52.947 de 21 de noviembre de 2024",
+    "entidad": "Servicio Nacional de Aprendizaje - SENA",
+    "titulo": "Reglamento del Aprendiz SENA",
+    "derogatorias": "Deroga los Acuerdos 07 de 2012, 02 de 2014, 06 de 2023 y 02 de 2024",
+    "modificaciones": "Modificado por el Acuerdo 2 de 10 de marzo de 2026 (Artículo 48)"
+  },
+  "capitulos": [
+    {
+      "numero": "Capítulo I",
+      "titulo": "Definiciones y Principios Orientadores",
+      "articulos": [
+        {
+          "articulo": "Artículo 1o",
+          "nombre": "Definiciones",
+          "descripcion": "Establece los conceptos fundamentales: Formación Profesional Integral (proceso teórico-práctico integral orientado al desarrollo de competencias técnicas y socioemocionales), Comunidad Educativa SENA (aprendices, instructores, directivos, administrativos, empresarios y sectores sociales), Aspirante, Aprendiz y Grupo."
+        },
+        {
+          "articulo": "Artículo 2o",
+          "nombre": "Alcance del Reglamento",
+          "descripcion": "Aplica para el aspirante en su proceso de ingreso y para el aprendiz durante todo su proceso formativo y certificación, en todas las sedes, jornadas, niveles, modalidades (presencial, virtual, a distancia) y tipos de formación."
+        },
+        {
+          "articulo": "Artículo 3o",
+          "nombre": "Principios Orientadores",
+          "descripcion": "Fundamentados en la Constitución Política: 1. Autonomía, 2. Dignidad, 3. Inclusión, 4. Enfoque diferencial, 5. Enfoque territorial, 6. Participación, 7. Desarrollo sostenible, 8. Solidaridad."
+        },
+        {
+          "articulo": "Artículo 4o",
+          "nombre": "Centro de Convivencia",
+          "descripcion": "Atención complementaria del proceso formativo mediante alojamiento y alimentación para aprendices seleccionados bajo manual de convivencia."
+        }
+      ]
+    },
+    {
+      "numero": "Capítulo II",
+      "titulo": "Derechos del Aprendiz SENA",
+      "articulos": [
+        {
+          "articulo": "Artículo 5o",
+          "nombre": "Derechos del Aprendiz SENA",
+          "descripcion": "Consagra los 24 derechos fundamentales del aprendiz SENA.",
+          "puntosClave": [
+            "1. Recibir inducción completa sobre el reglamento, bienestar y procedimientos.",
+            "2. Recibir formación profesional integral de calidad con recursos físicos y tecnológicos idóneos.",
+            "3. Ser acreditado como aprendiz del SENA ante dependencias internas y externas.",
+            "4. Disponer de la infraestructura, equipos, tecnologías y bibliotecas del Centro de Formación.",
+            "5. Recibir oportunamente los Elementos de Protección Personal (EPP) requeridos.",
+            "6. Disfrutar del Plan Nacional Integral de Bienestar al Aprendiz.",
+            "7. Recibir orientación humanista, ocupacional y actitudinal.",
+            "8. Reconocimiento y ajustes razonables en caso de condición de discapacidad.",
+            "9. Reconocimiento y enfoque diferencial para grupos de especial protección constitucional.",
+            "10. Garantía del debido proceso, presunción de inocencia y derecho a la defensa y contradicción.",
+            "11. Ser notificado oportunamente de novedades académicas, administrativas o disciplinarias.",
+            "12. Ser escuchado y atendido en peticiones respetuosas con respuesta oportuna.",
+            "13. Recibir asesoría y activación de rutas de atención contra acoso, violencia de género o vulneración de derechos.",
+            "14. Participar en la autoevaluación del programa e interactuar con instructores calificados.",
+            "15. Ser evaluado objetivamente y conocer resultados dentro de los 8 días hábiles siguientes.",
+            "16. Solicitar revisión respetuosa de evaluaciones dentro de los 2 días hábiles siguientes.",
+            "17. Recibir orientación clara sobre modalidades, plazos y requisitos de la etapa productiva.",
+            "18. Recibir trato digno, respetuoso, igualitario y justo de toda la comunidad educativa.",
+            "19. Libertad de pensamiento y expresión en el marco del respeto mutuo.",
+            "20. Postularse a programas de liderazgo, bienestar y desarrollo integral.",
+            "21. Elegir y ser elegido representante o vocero de los aprendices.",
+            "22. Presentar evaluaciones pendientes en caso de ausencia justificada.",
+            "23. Recibir acompañamiento para la selección de modalidad en etapa productiva.",
+            "24. Obtener el título o certificación al cumplir los resultados de aprendizaje exigidos."
+          ]
+        },
+        {
+          "articulo": "Artículo 6o",
+          "nombre": "Reconocimientos Formativos",
+          "descripcion": "Beneficios otorgados por el Subdirector de Centro ante méritos sobresalientes: Mención de honor, representación del SENA en eventos nacionales/internacionales, y designación como monitor."
+        },
+        {
+          "articulo": "Artículo 7o",
+          "nombre": "Representatividad de los Aprendices",
+          "descripcion": "Rutas de representación: 1. Representantes por jornada y modalidad (elegidos en septiembre), 2. Voceros por grupo, 3. Voceros con enfoque diferencial (indígena, NARP, LGTBIQ+, campesino, discapacidad, mujer)."
+        }
+      ]
+    },
+    {
+      "numero": "Capítulo III",
+      "titulo": "Deberes y Prohibiciones del Aprendiz SENA",
+      "articulos": [
+        {
+          "articulo": "Artículo 8o",
+          "nombre": "Deberes del Aprendiz SENA",
+          "descripcion": "Responsabilidades académicas, disciplinarias y de convivencia del aprendiz SENA.",
+          "puntosClave": [
+            "1. Suscribir el acta de compromiso al momento de asentar la matrícula.",
+            "2. Conocer y cumplir cabalmente el reglamento del aprendiz SENA.",
+            "3. Actuar con base en los principios y valores institucionales.",
+            "4. Mantener actualizados sus datos en Sofia Plus/Zajuna y la Agencia Pública de Empleo.",
+            "5. Asistir con puntualidad a todas las actividades formativas presenciales y virtuales.",
+            "6. Entregar las evidencias de aprendizaje en los plazos fijados en la planeación pedagógica.",
+            "7. Justificar debidamente inasistencias en los plazos reglamentarios (1 día previo si es programada, máx. 5 días si es imprevista).",
+            "8. Informar oportunamente al instructor o coordinador académico las anomalías formativas.",
+            "9. Cumplir directrices en salidas técnicas, pasantías y eventos institucionales.",
+            "10. Tramitar formalmente novedades académicas (traslado, aplazamiento, reintegro, retiro).",
+            "11. Cuidar la infraestructura física, tecnológica y ambiental del Centro.",
+            "12. Respetar los derechos de autor y propiedad intelectual.",
+            "13. Elaborar con honestidad académica y autoría propia evaluaciones, guías y proyectos (sin plagio).",
+            "14. Proteger los bienes culturales, ambientales y digitales del SENA.",
+            "15. Usar adecuadamente los Elementos de Protección Personal (EPP) y cumplir normas de SST.",
+            "16. Acatar protocolos de bioseguridad institucional.",
+            "17. Desarrollar la etapa productiva según la normativa y plazos vigentes.",
+            "18. Informar de inmediato la consecución de contrato de aprendizaje u otra alternativa.",
+            "19. Portar el carné o identificación institucional en todo momento.",
+            "20. Portar prendas y dotación formativa sin que la falta de uniforme comercial sea causal de exclusión.",
+            "21. Ingresar de manera personal e intransferible con su usuario a plataformas institucionales.",
+            "22. Informar condiciones de salud que requieran atención o afecten la comunidad.",
+            "23. Aportar documentación verídica y oportuna en todos los trámites.",
+            "24. Comunicar oportunamente ajustes razonables si cuenta con alguna discapacidad."
+          ]
+        },
+        {
+          "articulo": "Artículo 9o",
+          "nombre": "Prohibiciones del Aprendiz",
+          "descripcion": "Conductas expresamente vetadas para los aprendices en ambientes presenciales y virtuales.",
+          "puntosClave": [
+            "1. Aportar información o documentos falsos para ingreso, matrícula o beneficios.",
+            "2. Suplantar la identidad de otra persona en trámites o evaluaciones.",
+            "3. Alterar, falsificar o sustraer documentos del SENA.",
+            "4. Plagiar materiales, tareas, software o documentos evaluativos.",
+            "5. Usar redes y tecnologías del SENA para transmitir pornografía, odio, agresiones o violencia.",
+            "6. Ingerir, portar, comercializar o estar bajo el efecto de alcohol o sustancias psicoactivas.",
+            "7. Portar armas, objetos cortopunzantes o sustancias peligrosas en el Centro de Formación.",
+            "8. Lucrarse indebidamente o realizar actividades comerciales privadas usando el nombre o recursos del SENA.",
+            "9. Cometer o ser cómplice de delitos dentro o contra la comunidad SENA.",
+            "10. Destruir o dañar equipos, instalaciones o recursos del SENA o empresas patrocinadoras.",
+            "11. Realizar actividades proselitistas políticas o religiosas en ambientes formativos.",
+            "12. Ingresar o salir por sitios no autorizados (saltar muros, forzar cerraduras).",
+            "13. Realizar grafitis o pegar carteles de acoso, hostigamiento, bullying o mobbing.",
+            "14. Discriminar a cualquier miembro de la comunidad por motivos de género, raza, credo, orientación o condición socioeconómica."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": "Capítulo IV",
+      "titulo": "Ingreso, Permanencia, Novedades y Deserción",
+      "articulos": [
+        {
+          "articulo": "Artículo 18",
+          "nombre": "Novedades durante la Formación",
+          "descripcion": "Regula el Traslado (único durante la formación, haber aprobado primer trimestre), el Aplazamiento (hasta por 3 meses prorrogables por otros 3, justificado por incapacidad médica >= 20 días, maternidad, calamidad doméstica, servicio militar), el Reintegro (solicitado mínimo 5 días antes de vencer el aplazamiento) y el Retiro Voluntario."
+        },
+        {
+          "articulo": "Artículo 28 y 29",
+          "nombre": "Incumplimientos Justificados e Injustificados",
+          "descripcion": "Inasistencias programadas deben reportarse con 1 día de anticipación. Inasistencias no programadas deben justificarse en máximo 5 días hábiles con soporte legal válido."
+        },
+        {
+          "articulo": "Artículo 30",
+          "nombre": "Causales de Deserción",
+          "descripcion": "Se configura deserción cuando el aprendiz: a) Inasiste injustificadamente 3 días continuos o 5 no continuos en formación presencial; b) No asiste a 3 citaciones seguidas o deja de ingresar 20 días continuos al LMS en virtualidad; c) Inasiste 3 días seguidos a la empresa en etapa productiva; d) No gestiona reintegro 3 días antes de culminar el aplazamiento."
+        },
+        {
+          "articulo": "Artículo 36",
+          "nombre": "Juicios de Evaluación",
+          "descripcion": "Se utilizan exclusivamente dos juicios cualitativos: APROBADO (alcanza los resultados y criterios exigidos) o NO APROBADO (no alcanza los resultados de aprendizaje)."
+        },
+        {
+          "articulo": "Artículo 38",
+          "nombre": "Revisión de Evaluaciones",
+          "descripcion": "El aprendiz inconforme con una evaluación puede solicitar revisión escrita dentro de los 2 días hábiles siguientes. El instructor debe responder en 2 días hábiles. Procede asignación de segundo evaluador."
+        }
+      ]
+    },
+    {
+      "numero": "Capítulo V",
+      "titulo": "Faltas, Medidas Formativas y Sancionatorias",
+      "articulos": [
+        {
+          "articulo": "Artículo 41 a 44",
+          "nombre": "Clasificación de Faltas",
+          "descripcion": "Faltas Académicas y Disciplinarias. Calificación en: Leves, Graves (vulneran convivencia o integridad, dan lugar a condicionamiento o cancelación) y Gravísimas (dolo, violación de DDHH, armas, dan lugar a cancelación directa de matrícula)."
+        },
+        {
+          "articulo": "Artículo 45 y 46",
+          "nombre": "Medidas Formativas",
+          "descripcion": "Académicas: hasta 2 llamados de atención escritos y Plan de Mejoramiento Académico (máximo 20 días calendario para ejecutarse). Disciplinarias: hasta 2 llamados de atención escritos y Plan de Mejoramiento Disciplinario concertado en acta."
+        },
+        {
+          "articulo": "Artículo 47",
+          "nombre": "Medidas Sancionatorias",
+          "descripcion": "1. Condicionamiento de matrícula (pérdida temporal de incentivos, se supera con plan de mejoramiento, máx. 2 en el proceso). 2. Cancelación de matrícula (retira al aprendiz e impone inhabilidad de 6 meses para volver a matricularse en formación laboral o tecnológica)."
+        },
+        {
+          "articulo": "Artículo 48 a 51",
+          "nombre": "Debido Proceso y Comité de Evaluación",
+          "descripcion": "Equipo ejecutor y Comité de Evaluación y Seguimiento. Garantiza notificación, pruebas, presunción de inocencia, descargos verbales o escritos, y derecho al recurso de reposición y apelación."
+        }
+      ]
+    }
+  ],
+  "preguntasEvaluacion": [
+    {
+      "id": 1,
+      "categoria": "Derechos",
+      "pregunta": "¿Dentro de cuántos días hábiles tiene derecho el aprendiz a conocer los resultados de sus evaluaciones según el Acuerdo 009 de 2024?",
+      "contextoCaso": "El aprendiz presentó su evidencia de proyecto el día lunes y desea conocer el término legal máximo que tiene el instructor para publicar el juicio evaluativo.",
+      "opciones": [
+        { "id": "A", "texto": "Dentro de los tres (3) días hábiles siguientes a su realización." },
+        { "id": "B", "texto": "Dentro de los ocho (8) días hábiles siguientes a su realización." },
+        { "id": "C", "texto": "Al finalizar el trimestre de formación sin plazo intermedio." },
+        { "id": "D", "texto": "En un plazo máximo de quince (15) días calendario." }
+      ],
+      "opcionCorrectaId": "B",
+      "articuloReferencia": "Artículo 5o, Numeral 15 (Acuerdo 009 de 2024)",
+      "refuerzoPedagogico": "El Artículo 5o, numeral 15 establece expresamente que es derecho del aprendiz ser evaluado objetiva e integralmente y conocer el resultado de las evaluaciones dentro de los ocho (8) días hábiles siguientes a su entrega o realización."
+    },
+    {
+      "id": 2,
+      "categoria": "Deberes",
+      "pregunta": "Si un aprendiz tiene una inasistencia imprevista por fuerza mayor (no programada), ¿cuál es el plazo máximo para presentar la debida justificación?",
+      "contextoCaso": "Un aprendiz sufrió una emergencia médica personal que le impidió asistir a clase el martes.",
+      "opciones": [
+        { "id": "A", "texto": "Máximo el mismo día de la inasistencia antes de las 6:00 p.m." },
+        { "id": "B", "texto": "Hasta diez (10) días hábiles después del suceso." },
+        { "id": "C", "texto": "A más tardar dentro de los cinco (5) días hábiles siguientes a su ocurrencia con los soportes debidos." },
+        { "id": "D", "texto": "No se requiere justificar si presenta la excusa al finalizar el trimestre." }
+      ],
+      "opcionCorrectaId": "C",
+      "articuloReferencia": "Artículo 28, Parágrafo 3o (Acuerdo 009 de 2024)",
+      "refuerzoPedagogico": "El Parágrafo 3o del Artículo 28 dispone que las inasistencias no programadas deben informarse al instructor con soportes idóneos a más tardar dentro de los cinco (5) días hábiles siguientes a su ocurrencia."
+    },
+    {
+      "id": 3,
+      "categoria": "Prohibiciones",
+      "pregunta": "¿Qué consecuencia reglamentaria conlleva cometer plagio en actividades evaluativas o trabajos de formación?",
+      "contextoCaso": "Un aprendiz entregó un código y documentación técnica descargados de internet haciéndolos pasar como autoría propia.",
+      "opciones": [
+        { "id": "A", "texto": "Constituye una falta grave y violación a la prohibición del Artículo 9 numeral 4, que activa el debido proceso disciplinario." },
+        { "id": "B", "texto": "Solo se pide repetir el trabajo sin ninguna anotación en el expediente académico." },
+        { "id": "C", "texto": "Está permitido si se cita el nombre del autor en cualquier parte del archivo." },
+        { "id": "D", "texto": "Es una recomendación pedagógica sin consecuencias disciplinarias." }
+      ],
+      "opcionCorrectaId": "A",
+      "articuloReferencia": "Artículo 9o Numeral 4 y Artículo 41-42 (Acuerdo 009 de 2024)",
+      "refuerzoPedagogico": "El Artículo 9 numeral 4 prohíbe taxativamente plagiar materiales, trabajos y actividades evaluativas. Esta conducta vulnera la ética formativa, se califica como falta grave y puede dar lugar a condicionamiento o cancelación de matrícula."
+    },
+    {
+      "id": 4,
+      "categoria": "Evaluación y Deserción",
+      "pregunta": "¿Bajo qué condición se configura la deserción por inasistencia injustificada en programas de formación presencial?",
+      "contextoCaso": "Un aprendiz no se presentó al Centro de Formación durante varios días sin reportar ninguna justificación.",
+      "opciones": [
+        { "id": "A", "texto": "Inasistir injustificadamente un (1) solo día en el trimestre." },
+        { "id": "B", "texto": "Tener tres (3) días continuos de inasistencia injustificada o acumular cinco (5) días no continuos injustificados durante toda la formación." },
+        { "id": "C", "texto": "Faltar a diez (10) clases sin importar el período académico." },
+        { "id": "D", "texto": "Solamente cuando el aprendiz manifieste verbalmente que no desea volver." }
+      ],
+      "opcionCorrectaId": "B",
+      "articuloReferencia": "Artículo 30, Numeral 1, Literal a) (Acuerdo 009 de 2024)",
+      "refuerzoPedagogico": "El Artículo 30 literal a) señala que la deserción en formación presencial se configura con tres (3) días continuos de inasistencia injustificada o al acumular cinco (5) días no continuos injustificados durante todo el proceso formativo."
+    },
+    {
+      "id": 5,
+      "categoria": "Novedades y Trámites",
+      "pregunta": "¿Por cuánto tiempo máximo se puede autorizar inicialmente un aplazamiento justificado de la formación?",
+      "contextoCaso": "Una aprendiz requiere suspender su proceso debido a una incapacidad médica certificada superior a 20 días.",
+      "opciones": [
+        { "id": "A", "texto": "Hasta por un (1) año automáticamente." },
+        { "id": "B", "texto": "Hasta por tres (3) meses calendario, prorrogable motivadamente hasta por tres (3) meses más." },
+        { "id": "C", "texto": "Máximo quince (15) días hábiles improrrogables." },
+        { "id": "D", "texto": "De manera indefinida mientras conserve su usuario activo." }
+      ],
+      "opcionCorrectaId": "B",
+      "articuloReferencia": "Artículo 18, Numeral 2 (Acuerdo 009 de 2024)",
+      "refuerzoPedagogico": "Según el Artículo 18 numeral 2, el aplazamiento justificado se otorga hasta por tres (3) meses calendario. Previa solicitud justificada, el Comité de Evaluación puede recomendar ampliarlo hasta por tres (3) meses adicionales."
+    },
+    {
+      "id": 6,
+      "categoria": "Derechos",
+      "pregunta": "Si un aprendiz está en desacuerdo con la calificación emitida por su instructor, ¿cuál es el término reglamentario para solicitar su revisión formal?",
+      "contextoCaso": "El aprendiz considera que su evidencia cumplía con todos los criterios de la lista de chequeo y desea una segunda revisión.",
+      "opciones": [
+        { "id": "A", "texto": "Dentro de los dos (2) días hábiles siguientes a la publicación o entrega del resultado." },
+        { "id": "B", "texto": "Hasta un mes después de cerrado el trimestre." },
+        { "id": "C", "texto": "Inmediatamente el mismo minuto de la evaluación de forma verbal." },
+        { "id": "D", "texto": "No se permite controvertir las evaluaciones de los instructores." }
+      ],
+      "opcionCorrectaId": "A",
+      "articuloReferencia": "Artículo 38, Numeral 1 (Acuerdo 009 de 2024)",
+      "refuerzoPedagogico": "El Artículo 38 numeral 1 otorga al aprendiz el derecho a solicitar por escrito la revisión de su evaluación dentro de los dos (2) días hábiles siguientes a su publicación. El instructor cuenta con dos (2) días hábiles para responder."
+    },
+    {
+      "id": 7,
+      "categoria": "Deberes",
+      "pregunta": "¿Puede el Centro de Formación o un instructor impedir el ingreso al ambiente de aprendizaje si el aprendiz no cuenta con el uniforme comercial por motivos económicos?",
+      "contextoCaso": "Un aprendiz asiste a formación con ropa adecuada y respetuosa pero no tiene recursos para comprar el uniforme de uso diario institucional.",
+      "opciones": [
+        { "id": "A", "texto": "Sí, el uniforme comercial es de porte obligatorio y su ausencia genera expulsión inmediata." },
+        { "id": "B", "texto": "No. Cuando el aprendiz no cuente con condiciones económicas para adquirir el uniforme de uso diario, no se le impedirá el acceso a los ambientes de formación." },
+        { "id": "C", "texto": "Solo si la empresa patrocinadora lo autoriza por escrito." },
+        { "id": "D", "texto": "Debe pagar una sanción monetaria al Centro de Formación." }
+      ],
+      "opcionCorrectaId": "B",
+      "articuloReferencia": "Artículo 8o, Numeral 20 (Acuerdo 009 de 2024)",
+      "refuerzoPedagogico": "El Artículo 8 numeral 20 estipula claramente que cuando el aprendiz no cuente con condiciones económicas para acceder al uniforme de uso diario (no asociado a elementos de seguridad o EPP), no será causal para que los directivos o instructores impidan el acceso a los ambientes de formación."
+    },
+    {
+      "id": 8,
+      "categoria": "Faltas y Sanciones",
+      "pregunta": "¿Qué implicación legal tiene la sanción de Cancelación de Matrícula en programas laborales o tecnológicos?",
+      "contextoCaso": "A un aprendiz se le canceló la matrícula mediante acto administrativo en firme tras comprobarse una falta disciplinaria gravísima.",
+      "opciones": [
+        { "id": "A", "texto": "Puede volver a matricularse al día siguiente en cualquier sede del SENA." },
+        { "id": "B", "texto": "Es retirado del programa e inhabilita para presentarse a un nuevo programa laboral o tecnológico durante seis (6) meses tras quedar en firme." },
+        { "id": "C", "texto": "Inhabilidad perpetua de por vida en cualquier entidad del Estado." },
+        { "id": "D", "texto": "Solo se suspende su carné por una semana." }
+      ],
+      "opcionCorrectaId": "B",
+      "articuloReferencia": "Artículo 47, Numeral 2, Parágrafo 2o (Acuerdo 009 de 2024)",
+      "refuerzoPedagogico": "El Artículo 47 numeral 2 establece que la cancelación de matrícula retira al aprendiz del programa y le exige esperar seis (6) meses a partir de la firmeza del acto administrativo para poder presentarse a un nuevo programa de formación laboral o tecnológica."
+    }
+  ]
+}

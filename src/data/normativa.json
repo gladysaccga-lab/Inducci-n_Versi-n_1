@@ -1,0 +1,15 @@
+{
+  "document": "Acuerdo 9 de 2024 - Reglamento del Aprendiz SENA",
+  "data": {
+    "rights": [
+      { "id": 1, "title": "Inducción", "description": "Recibir una inducción completa sobre el reglamento, el plan de bienestar y la organización." },
+      { "id": 2, "title": "Formación de Calidad", "description": "Recibir formación profesional integral con talento humano, físicos y tecnológicos suficientes." },
+      { "id": 18, "title": "Trato Digno", "description": "Recibir trato digno, respetuoso, igualitario y justo por parte de toda la comunidad educativa." }
+    ],
+    "duties": [
+      { "id": 1, "title": "Acta de Compromiso", "description": "Suscribir el acta de compromiso como aprendiz SENA al momento de la matrícula." },
+      { "id": 5, "title": "Puntualidad", "description": "Asistir con puntualidad a todas las actividades propias del proceso de formación." },
+      { "id": 13, "title": "Autenticidad", "description": "Realizar personalmente las evaluaciones y trabajos, haciendo uso de sus propios conocimientos y esfuerzo." }
+    ]
+  }
+}

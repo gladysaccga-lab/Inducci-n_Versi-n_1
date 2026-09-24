@@ -1,0 +1,6 @@
+{
+  "name": "SENAInduccionInteractiva",
+  "description": "Plataforma interactiva de inducción para aprendices SENA basada en el Acuerdo 009 de 2024.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
